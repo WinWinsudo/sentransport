@@ -36,3 +36,27 @@
     margin-right: 12px;
   }
 }
+.aucune-ligne {
+  text-align: center;
+  color: #e74c3c;
+  font-size: 1rem;
+  padding: 30px;
+  border: 2px dashed #e74c3c;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+.compteur-recherche {
+  font-size: 0.85rem;
+  color: #7f8c8d;
+  font-style: italic;
+  margin: 0 0 10px 0;
+}
+
+.aucune-ligne {
+  text-align: center;
+  color: #e74c3c;
+  padding: 30px;
+  border: 2px dashed #e74c3c;
+  border-radius: 8px;
+  margin-top: 10px;
+}
